@@ -22,3 +22,7 @@ public class FindLargest {
         System.out.println("Largest Number present in the array is: " + LargestNum(arr));
     }
 }
+
+/* let's change the if conditon from arr[i] > maxNum --->  arr[i] < maxNum
+   then we get smallest value of the given array
+ */
