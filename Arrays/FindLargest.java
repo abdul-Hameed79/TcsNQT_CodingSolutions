@@ -1,10 +1,10 @@
 package Arrays;
 
-public class FindLargest {
+class FindLargest {
     // write a java program to find the largest element present in an array
 
     // Function to find Largest Number
-    public static int LargestNum(int[] arr) {
+    static int LargestNum(int[] arr) {
         int maxNum = arr[0]; // Initial Value
 
         for(int i=0; i<arr.length; i++) {
