@@ -1,6 +1,7 @@
-// write a java program to find the largest element present in an array
+package Arrays;
 
 public class FindLargest {
+    // write a java program to find the largest element present in an array
 
     // Function to find Largest Number
     public static int LargestNum(int[] arr) {
