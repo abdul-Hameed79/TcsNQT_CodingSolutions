@@ -1,3 +1,5 @@
+// Given an array of elements whose length is N, print true if the array contains duplicates or print false if it doesn't
+
 package Arrays;
 
 public class Duplicate {
